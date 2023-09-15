@@ -1,2 +1,1 @@
-* Never gonna give you up
-# Such a nice song!
+* Список всех коммитов показывает команда `git log`
